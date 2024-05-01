@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Benedicte!
 - 💻 The Hacking Project cursus
-- 🌱 I’m currently learning
+- 🧠 I’m currently learning
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="15" height="15"/></a> ,
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="15" height="15"/></a> , 
